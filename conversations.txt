@@ -1,2 +1,3 @@
-Francis: what is your favorite color?
-Estelle: my favorite color is teal!
+Estelle: what is your favorite color?
+Francis: my favorite color is teal!
+Estelle: Great! What is your favorite programming language?
